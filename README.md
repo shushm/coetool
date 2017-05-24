@@ -4,8 +4,8 @@ coetool is a cli or gui program to convert from .coe files (memory map for a ROM
 # What I did:
 changed some place to fit my requirements：convert an image to .coe file in RGB888, not the original RGB332.
 
-#denpendencies: 
+# denpendencies: 
 python3 + PyQt5 + PIL
 
-#License:
+# License:
 GPL
